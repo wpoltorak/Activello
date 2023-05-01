@@ -62,7 +62,7 @@ Theme documentation is available on http://colorlib.com/wp/support/activello
 
 /*========= Changelog =========*/
 = 1.1.1 - 11.11.2027 = 
-Test
+Test 1
 
 = 1.1.0 - 11.10.2016 =
 
