@@ -1,6 +1,6 @@
 /*========= About Theme =========*/
 
-Theme Name: Activello
+Theme Name: Activello-forked
 Theme URI: http://colorlib.com/wp/Activello/
 Version: 1.1.1
 Tested up to: WP 4.6
